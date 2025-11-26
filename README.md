@@ -1,8 +1,10 @@
-# { WORKSHOP NAME } 
+# Robotics beginner class with MicroPython 
 ### Presentation: [{ YOUR PRESENTATION NAME }](workshop/presentation_template.pdf)
 
 ## Workshop description
-Describe why your topic is important and what you want to share with your audience
+Make A Robot with MicroPython
+
+In this hands-on session, you’ll learn the fundamentals of robotics using MicroPython and an ESP32 microcontroller. We’ll guide you through building a simple robot that can light up LEDs and move a handmade part. The workshop covers wiring, coding, and basic motion control principles, which you can later expand to include sensors or APIs.
 
 ## Requirements
 * PyLadies Amsterdam uses [uv](https://docs.astral.sh/uv/) for dependency management
@@ -38,7 +40,7 @@ After you have specified the Python version, you can create a virtual environmen
 Re-watch [this YouTube stream](link)
 
 ## Credits
-This workshop was set up by @pyladiesams and {your GitHub handler}
+This workshop was set up by @pyladiesams and @jquack
 
 ## Appendix
 ### Pre-Commit Hooks
